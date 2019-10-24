@@ -50,7 +50,7 @@ input[type=range], select {
     box-sizing: border-box;
 }
 button {
-  width: 100%;
+  width: 55%;
   background-color: var(--btn-color);
   color: var(--main-bg-color);
   padding: 14px 20px;
@@ -58,7 +58,7 @@ button {
   border: 1px var(--main-color) solid;
   border-radius: 4px;
   cursor: pointer;
-  font-size: larger;
+  font-size: smaller;
   font-weight: bold;
 }
 
